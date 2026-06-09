@@ -4,7 +4,7 @@
 
 <!-- Animação de digitação -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Lvl+5+Software+Engineer...;C%2C+Python+%26+Web+Dev...;Quebrando+a+cabeça...;Explorando+novos+horizontes+sempre...;Ready+Player+One!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Me+chamo+Lucas+Oliveira...;Lvl+5+Software+Engineer...;Quebrando+a+cabeça...;Explorando+novos+horizontes+sempre...;Ready+Player+One!" alt="Typing SVG" />
 </a>
 
 > *"It's dangerous to go alone! Take this code."* 🎮
