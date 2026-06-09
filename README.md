@@ -52,10 +52,10 @@ Aqui estão as minhas estatísticas de servidor e histórico de batalhas (*commi
 
 <div align="center">
   <a href="https://github.com/dev-LucasDpaula">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-LucasDpaula&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Status do Jogador" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-LucasDpaula&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Status do Jogador" height="150" />
   </a>
   <a href="https://github.com/dev-LucasDpaula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LucasDpaula&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LucasDpaula&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150" />
   </a>
 </div>
 
