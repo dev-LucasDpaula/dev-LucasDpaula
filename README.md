@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Bem-vindo ao meu Save Game!
+# ⚔️ Bem-vindo ao meu GitHub!
 
 <!-- Animação de digitação -->
 <a href="https://git.io/typing-svg">
