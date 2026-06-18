@@ -51,17 +51,3 @@ Dominar as ferramentas é crucial, mas saber lutar em equipe vence a campanha.
 - ⚡ **XP & RAD:** Foco em entregas rápidas e contínuas, adaptabilidade a mudanças e pareamento de ideias.
 
 ---
-### 🃏 Cartão de Jogador (Status do Personagem)
-
-Aqui estão as minhas estatísticas de servidor e histórico de batalhas (*commits*):
-
-<div align="center">
-  <a href="https://github.com/dev-LucasDpaula">
-    <img src="https://streak-stats.demolab.com/?user=dev-LucasDpaula&theme=radical&mode=weekly" alt="Streak Stats" height="150" />
-  </a>
-  <a href="https://github.com/dev-LucasDpaula">
-    <img src="https://github-readme-stats.shion.dev/api?username=dev-LucasDpaula&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Status do Jogador" height="150" />
-  </a>
-</div>
-
----
